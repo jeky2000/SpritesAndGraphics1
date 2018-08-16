@@ -1,0 +1,17 @@
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\SpritesAndGraphics.exe
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\SpritesAndGraphics.pdb
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\obj\x86\Debug\SpritesAndGraphics.csprojResolveAssemblyReference.cache
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\obj\x86\Debug\SpritesAndGraphics.exe
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\obj\x86\Debug\SpritesAndGraphics.pdb
+D:\#XNA\SpritesAndGraphics\SpritesAndGraphics\SpritesAndGraphics\bin\x86\Debug\Content\Sprites\Play2.xnb
